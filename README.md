@@ -17,4 +17,5 @@ Link: // Enter Link Here //
        - Ground2: https://www.pngitem.com/middle/mRRmob_transparent-hole-in-the-ground-png-pixel-art/
        - Background: https://vnitti.itch.io/glacial-mountains-parallax-background
        - Icons: https://leo-red.itch.io/lucid-icon-pack
+3. Obstacles
        - Bird: https://ma9ici4n.itch.io/pixel-art-bird-16x16
