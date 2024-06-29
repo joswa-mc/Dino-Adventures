@@ -19,3 +19,4 @@ Link: // Enter Link Here //
        - Icons: https://leo-red.itch.io/lucid-icon-pack
 3. Obstacles
        - Bird: https://ma9ici4n.itch.io/pixel-art-bird-16x16
+       - Boxes: https://nyknck.itch.io/wood-set
