@@ -14,5 +14,6 @@ Link: // Enter Link Here //
 2. Terains:
        - Houses: https://styloo.itch.io/house-2d
        - Ground: https://pixelfrog-assets.itch.io/pixel-adventure-1
+       - Ground2: https://www.pngitem.com/middle/mRRmob_transparent-hole-in-the-ground-png-pixel-art/
        - Background: https://vnitti.itch.io/glacial-mountains-parallax-background
        - Icons: https://leo-red.itch.io/lucid-icon-pack
