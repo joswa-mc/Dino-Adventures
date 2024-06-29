@@ -13,6 +13,6 @@ Link: // Enter Link Here //
        - NPC Characters: https://pixelfrog-assets.itch.io/pixel-adventure-1
 2. Terains:
        - Houses: https://styloo.itch.io/house-2d
-       - Ground: https://pixelfrog-assets.itch.io/pixel-adventure-1 && https://arexxuru.itch.io/pixel-floor-texture-pack-ground-tile
+       - Ground: https://pixelfrog-assets.itch.io/pixel-adventure-1
        - Background: https://vnitti.itch.io/glacial-mountains-parallax-background
        - Icons: https://leo-red.itch.io/lucid-icon-pack
