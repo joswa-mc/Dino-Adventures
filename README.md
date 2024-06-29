@@ -14,5 +14,5 @@ Link: // Enter Link Here //
 2. Terains:
        - Houses: https://styloo.itch.io/house-2d
        - Ground: https://pixelfrog-assets.itch.io/pixel-adventure-1
-       - Fences: https://rockymullet.itch.io/garden-ground-tileset
        - Background: https://vnitti.itch.io/glacial-mountains-parallax-background
+       - Icons: https://leo-red.itch.io/lucid-icon-pack
