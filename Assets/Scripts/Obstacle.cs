@@ -3,6 +3,7 @@ using UnityEngine;
 public class Obstacle : MonoBehaviour
 {
     private float leftEdge;
+ 
 
     private void Start()
     {

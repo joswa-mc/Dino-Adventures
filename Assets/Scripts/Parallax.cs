@@ -6,7 +6,7 @@ using UnityEngine.UIElements;
 public class Parallax : MonoBehaviour
 {
     private float length, startpos;
-    public GameObject cam;
+    public GameObject follow;
     public float parallaxFX;
     void Start()
     {
@@ -16,8 +16,8 @@ public class Parallax : MonoBehaviour
 
     void FixedUpdate()
     {
-        float temp = (cam.transform.position.x * (1 - parallaxFX));
-        float dist = (cam.transform.position.x * parallaxFX);
+        float temp = (follow.transform.position.x * (1 - parallaxFX));
+        float dist = (follow.transform.position.x * parallaxFX);
         transform.position = new Vector3(startpos + dist, transform.position.y, transform.position.z);
 
         if (temp > startpos + length)

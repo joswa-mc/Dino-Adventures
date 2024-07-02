@@ -81,6 +81,7 @@ public class PlayerR : MonoBehaviour
     {
         if(collision.gameObject.CompareTag("Obstacle"))
         {
+            GameObject.Find("Switch").GetComponent<GameManage>().ChangeScene(0);
             SceneManager.LoadSceneAsync(0);
         }
     }
