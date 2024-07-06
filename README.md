@@ -2,7 +2,7 @@ GamePrograming (SideScroller2D) Dino Adventures
 // Read Me In Progress //
 
 -- Itch.io Link --
-Link: // Enter Link Here //
+Link: (https://creasedjordans.itch.io/dinodash)
 
 -- Assets Origins --
 1. Characters
