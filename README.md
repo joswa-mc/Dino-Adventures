@@ -22,3 +22,4 @@ Link: // Enter Link Here //
        - Boxes: https://nyknck.itch.io/wood-set (@nyk_nck)
 4. Audio:
        - Village Audio: https://youtu.be/eZ_r1H9vHkI?si=hGSM4xJDjQnNLjhZ
+       - Running audio: https://youtu.be/s1gB8H6Aomw?si=HBxKqLNcwoJsClhy
