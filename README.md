@@ -4,9 +4,6 @@ GamePrograming (SideScroller2D) Dino Adventures
 -- Itch.io Link --
 Link: // Enter Link Here //
 
--- Youtube Link --
-Link: // Enter Link Here //
-
 -- Assets Origins --
 1. Characters
        - Dinosaurs: https://arks.itch.io/dino-characters
